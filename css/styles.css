@@ -1,0 +1,35 @@
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+
+.title{
+    text-transform: uppercase;
+}
+
+h4{
+   color: #02b3e4;
+}
+
+hr {
+    border-width: 3px 0;
+    }
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    }
+
+.portfolio-section {
+   margin-top: 20px;
+}
+
+.p-card {
+	display: inline-block;
+    padding: 10px 10px;
+    margin-bottom: 25px;
+    border-radius: 0px;
+    text-align: center;
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+	}
+
